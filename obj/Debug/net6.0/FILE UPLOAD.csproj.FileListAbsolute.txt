@@ -1,0 +1,41 @@
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\appsettings.json
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\FILE UPLOAD.staticwebassets.runtime.json
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\FILE UPLOAD.exe
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\FILE UPLOAD.deps.json
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\FILE UPLOAD.runtimeconfig.json
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\FILE UPLOAD.dll
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\FILE UPLOAD.pdb
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\Humanizer.dll
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\new user\Desktop\FILE UPLOAD\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.csproj.AssemblyReference.cache
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.AssemblyInfoInputs.cache
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.AssemblyInfo.cs
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.csproj.CoreCompileInputs.cache
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.RazorAssemblyInfo.cache
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.RazorAssemblyInfo.cs
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\staticwebassets\msbuild.FILE UPLOAD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\staticwebassets\msbuild.build.FILE UPLOAD.props
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FILE UPLOAD.props
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FILE UPLOAD.props
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\scopedcss\bundle\FILE UPLOAD.styles.css
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\scopedcss\projectbundle\FILE UPLOAD.bundle.scp.css
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.csproj.CopyComplete
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.dll
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\refint\FILE UPLOAD.dll
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.pdb
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\FILE UPLOAD.genruntimeconfig.cache
+C:\Users\new user\Desktop\FILE UPLOAD\obj\Debug\net6.0\ref\FILE UPLOAD.dll
